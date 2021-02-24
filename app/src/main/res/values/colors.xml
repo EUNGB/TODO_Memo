@@ -3,4 +3,12 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="col_333">#333333</color>
+    <color name="col_666">#666666</color>
+    <color name="col_999">#999999</color>
+    <color name="col_ccc">#cccccc</color>
+    <color name="col_white">#ffffff</color>
+    <color name="col_black">#000000</color>
+    <color name="col_primary">#b6d43d</color>
 </resources>
